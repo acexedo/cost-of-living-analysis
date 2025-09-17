@@ -1,5 +1,4 @@
-📘 1. Cost of Living Analysis – README.md
-# Cost of Living Analysis
+# 📘Cost of Living Analysis
 
 This project analyzes global cost-of-living data to uncover insights about affordability, price fluctuations, and economic disparities across different regions. The analysis explores factors such as housing, food, transportation, and healthcare to highlight how costs vary between cities and countries.
 
